@@ -1,0 +1,15 @@
+.cache*
+
+.idea/**/**
+
+/extra_packages/*
+build/
+dist/
+*.egg-info
+
+*__pycache__
+*.pyc
+lib/
+
+*.iml
+*.DS_Store
